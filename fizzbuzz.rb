@@ -5,7 +5,7 @@ end
 elseif int % 5 == 0
 "Buzz"
 end
-elseid int % 15 == 0
+elseif int % 15 == 0
 "FizzBuzz"
 end
 end
